@@ -4,4 +4,4 @@ Hello.
 
 ## This is a title
 
-And you can include links, like this [link to Translating Nature](https://www.translatingnature.org). Posts will appear after this file.
+And you can include links, like this [link to Translating Nature](http://www.translatingnature.org). Posts will appear after this file.
