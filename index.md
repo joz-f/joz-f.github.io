@@ -1,6 +1,6 @@
 Hello.
 
-![Image of test logo](images/logo.svg)
+![Image of test logo](images/datamicrobe.svg)
 
 ## This is a title
 
